@@ -59,9 +59,9 @@ My research interests are primarily in development and agricultural economics.
 
 1. **Heterogeneous impacts of large scale land acquisitions on child nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja) et al. <br> *Forthcoming* at [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).  
 
-2. **The impact of large-scale land acquisitions on food security in Africa**. <br> [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597), 179, July 2024. [PDF](https://antoinecastet.github.io/Website/1-s2.0-S0305750X24000676-main.pdf)  
+2. **The impact of large-scale land acquisitions on food security in Africa**. <br> [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597), 179, July 2024. [PDF](PDF/Castet_2024_World_Development.pdf)  
 
-3. **Food security and Covid-19: An analysis of the MENA region**, with [Racha Ramadan](https://www.racharamadan.com/). <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 33(3–4), 2023. [PDF](PDF/castet-2023-la-securite-alimentaire-a-lepreuve-du-covid-19-une-analyse-de-la-region-moan.pdf)
+3. **Food security and Covid-19: An analysis of the MENA region**, with [Racha Ramadan](https://www.racharamadan.com/). <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 33(3–4), 2023. [PDF](PDF/Castet_Ramadan_2023_RED.pdf)
 
 **Work in progress**
 
@@ -75,7 +75,7 @@ My research interests are primarily in development and agricultural economics.
 
 **Book chapter**
 
-1. **Past, Present and Future of Food Security in Egypt**, with [Racha Ramadan](https://www.racharamadan.com/), in [Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050](https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5)), edited by [Michiel de Haas](https://scholar.google.com/citations?user=8jBsupsAAAAJ&hl=en), and [Ken E. Giller](https://scholar.google.com/citations?user=yct61VwAAAAJ&hl=fr), 2025. [PDF](https://www.taylorfrancis.com/reader/download/f60b6d2e-a507-4c05-9a2f-cdde9916cbf5/chapter/pdf?context=ubx) 
+1. **Past, Present and Future of Food Security in Egypt**, with [Racha Ramadan](https://www.racharamadan.com/), in [Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050](https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5)), edited by [Michiel de Haas](https://scholar.google.com/citations?user=8jBsupsAAAAJ&hl=en), and [Ken E. Giller](https://scholar.google.com/citations?user=yct61VwAAAAJ&hl=fr), 2025. [PDF](PDF/Ramadan_Castet_2025_Food_Security_Egypt.pdf) 
 
 More details are available on the [Research](research.html) page.
 

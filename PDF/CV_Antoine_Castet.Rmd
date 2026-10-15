@@ -2,13 +2,14 @@
 output:
   pdf_document:
     latex_engine: pdflatex
-geometry: a4paper,left=0.75in,top=1.25in,right=0.9in,bottom=1in
+geometry: a4paper,left=1in,top=1.25in,right=1in,bottom=1in
 documentclass: resume
 header-includes:
   - \usepackage{graphicx}
   - \usepackage[T1]{fontenc}
   - \usepackage[sc]{mathpazo}
   - \linespread{1.05}
+  - \def\sectionskip{\vspace{0.45cm}}
   - \usepackage[utf8]{inputenc}
   - \usepackage[official]{eurosym}
   - \usepackage{fontawesome}
@@ -33,16 +34,16 @@ header-includes:
 \end{tabular}
 
 \begin{rSection}{Academic positions}
-\textbf{Associate Professor}, \textit{Université de Rouen-Normandie, LERN} \hfill {2026 -} \\
-\textbf{Postdoctoral Researcher}, \textit{AgroParisTech, CIRED} \hfill {2025 - 2026} \\
+\textbf{Associate Professor}, \textit{Université de Rouen-Normandie, LERN} \hfill {2026 -} \\[0.2cm]
+\textbf{Postdoctoral Researcher}, \textit{AgroParisTech, CIRED} \hfill {2025 - 2026} \\[0.2cm]
 \textbf{Teaching Fellow (ATER)}, \textit{Sciences Po Paris} \hfill {2023 - 2025}
 \end{rSection}
 
 \begin{rSection}{Education}
 \textbf{PhD in Economics}, \textit{Paris 1 Panth\'{e}on-Sorbonne University} \hfill {2020 - 2025} \\
 Supervisor: \href{https://scholar.google.com/citations?user=6c8QzJwAAAAJ&hl=fr}{Alain Desdoigts} \\
-Committee: \href{https://scholar.google.com/citations?user=-IXkBZAAAAAJ&hl=fr}{Rémi Bazillier}, \href{https://scholar.google.com/citations?user=WtNVDgMAAAAJ&hl=fr}{Christelle Dumas}, \href{https://scholar.google.com/citations?user=OH-yKZQAAAAJ&hl=en}{Racha Ramadan}, and \href{https://scholar.google.fr/citations?user=Iv0Mq7wAAAAJ&hl=ru}{Raphaël Soubeyran} \\[0.15cm]
-\textbf{M.A. in Development Economics}, \textit{Paris 1 Panth\'{e}on-Sorbonne University} \hfill {2017 - 2019} \\
+Committee: \href{https://scholar.google.com/citations?user=-IXkBZAAAAAJ&hl=fr}{Rémi Bazillier}, \href{https://scholar.google.com/citations?user=WtNVDgMAAAAJ&hl=fr}{Christelle Dumas}, \href{https://scholar.google.com/citations?user=OH-yKZQAAAAJ&hl=en}{Racha Ramadan}, and \href{https://scholar.google.fr/citations?user=Iv0Mq7wAAAAJ&hl=ru}{Raphaël Soubeyran} \\[0.2cm]
+\textbf{M.A. in Development Economics}, \textit{Paris 1 Panth\'{e}on-Sorbonne University} \hfill {2017 - 2019} \\[0.2cm]
 \textbf{B.A. in Economics}, \textit{University of Poitiers} \hfill {2014 - 2017}
 \end{rSection}
 
@@ -50,7 +51,8 @@ Committee: \href{https://scholar.google.com/citations?user=-IXkBZAAAAAJ&hl=fr}{R
 \begin{enumerate}
 \item \textbf{Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South}, with Julie Faure, \textit{et al.} and Marc F. Müller. \\
 Forthcoming at \uline{Proceedings of the National Academy of Sciences.}
-\item \textbf{Past, Present and Future of Food Security in Egypt}, with \href{https://scholar.google.com/citations?user=OH-yKZQAAAAJ&hl=en}{Racha Ramadan}, in \href{https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5}{\uline{Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050}}, edited by \href{https://scholar.google.com/citations?user=8jBsupsAAAAJ&hl=en}{Michiel de Haas}, and \href{https://scholar.google.com/citations?user=yct61VwAAAAJ&hl=fr}{Ken E. Giller}, 2025, \href{https://www.taylorfrancis.com/reader/download/f60b6d2e-a507-4c05-9a2f-cdde9916cbf5/chapter/pdf?context=ubx}{\uline{PDF}}.
+\item \textbf{Past, Present and Future of Food Security in Egypt}, with \href{https://scholar.google.com/citations?user=OH-yKZQAAAAJ&hl=en}{Racha Ramadan}. \\
+In \href{https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5}{\uline{Pathways to African Food Security}}, eds. \href{https://scholar.google.com/citations?user=8jBsupsAAAAJ&hl=en}{M. de Haas} and \href{https://scholar.google.com/citations?user=yct61VwAAAAJ&hl=fr}{K. E. Giller}, 2025. \href{https://www.taylorfrancis.com/reader/download/f60b6d2e-a507-4c05-9a2f-cdde9916cbf5/chapter/pdf?context=ubx}{\uline{PDF}}.
 \item \textbf{The Impact of Large-Scale Land Acquisitions on Food Security in Africa}. \\
 \href{https://www.sciencedirect.com/science/article/pii/S0305750X24000676}{\uline{World Development}}, vol. 179, 2024. \href{https://antoinecastet.github.io/AntoineCastet/PDF/aa8269af-a102-4e7c-9a76-0427fdb18943.pdf}{\uline{PDF}}.
 \item \textbf{Food security and Covid-19: An analysis of the MENA region}, with \href{https://scholar.google.com/citations?user=OH-yKZQAAAAJ&hl=en}{Racha Ramadan}. \\
@@ -58,6 +60,7 @@ Forthcoming at \uline{Proceedings of the National Academy of Sciences.}
 \end{enumerate}
 \end{rSection}
 
+\newpage
 \begin{rSection}{Working papers}
 \begin{enumerate}
 \item \textbf{Climate Change and Gendered Structural Transformation in Africa}, with \href{https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en}{Kibrom Abay}, and \href{https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en}{Martin Paul Jr.Tabe-Ojong}. \\
@@ -69,7 +72,7 @@ Revise and Resubmit at \uline{Journal of Development Economics}.
 \end{rSection}
 
 \begin{rSection}{Academic Activities}
-\textbf{Organizing and Scientific Committee}, \textit{ADRES Conference} \hfill {2027} \\
-\textbf{Organizing Committee}, \textit{International Conference on Development Economics (ICDE)} \hfill {2026} \\
+\textbf{Organizing and Scientific Committee}, \textit{ADRES Conference} \hfill {2027} \\[0.2cm]
+\textbf{Organizing Committee}, \textit{International Conference on Development Economics (ICDE)} \hfill {2026} \\[0.2cm]
 \textbf{Scientific Committee}, \textit{Doctoral Development Days (JDD)} \hfill {2026}
 \end{rSection}

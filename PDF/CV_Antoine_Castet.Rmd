@@ -46,16 +46,16 @@ Committee: \href{https://scholar.google.com/citations?user=-IXkBZAAAAAJ&hl=fr}{R
 \begin{enumerate}
 \item \textbf{Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South}, with Julie Faure, Marc F. Müller, \textit{et al.} \\
 Forthcoming in \uline{Proceedings of the National Academy of Sciences}.
-\item \textbf{The Impact of Large-Scale Land Acquisitions on Food Security in Africa}. \\
+\item \textbf{The Impact of Large-Scale Land Acquisitions on Child Food Insecurity in Africa}. \\
 \href{https://www.sciencedirect.com/science/article/pii/S0305750X24000676}{\uline{World Development}}, vol. 179, 2024. \href{https://antoinecastet.github.io/AntoineCastet/PDF/Castet_2024_World_Development.pdf}{\uline{PDF}}.
 \item \textbf{Food Security and Covid-19: An Analysis of the MENA Region}, with \href{https://scholar.google.com/citations?user=OH-yKZQAAAAJ&hl=en}{Racha Ramadan}. \\
-\href{https://shs.cairn.info/revue-d-economie-du-developpement-2023-3-page-29?tab=resume}{\uline{Revue d’Économie du Développement}}, vol. 35, 2023. \href{https://antoinecastet.github.io/AntoineCastet/PDF/Castet_Ramadan_2023_RED.pdf}{\uline{PDF}}.
+\href{https://shs.cairn.info/revue-d-economie-du-developpement-2023-3-page-29?tab=resume}{\uline{Revue d’Économie du Développement}}, vol. 31, 2023. \href{https://antoinecastet.github.io/AntoineCastet/PDF/Castet_Ramadan_2023_RED.pdf}{\uline{PDF}}.
 \end{enumerate}
 \end{rSection}
 
 \begin{rSection}{Working papers}
 \begin{enumerate}
-\item \textbf{Climate Change and Gendered Structural Transformation in Africa}, with \href{https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en}{Kibrom Abay} and \href{https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en}{Martin Paul Jr. Tabe-Ojong}. \\
+\item \textbf{Climate Change and Gendered Structural Transformation in Africa}, with \href{https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en}{Martin Paul Jr. Tabe-Ojong} and \href{https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en}{Kibrom Abay}. \\
 Revise and Resubmit at \uline{Journal of Development Economics}.
 \item \textbf{Do Transportation Costs Drive Fertilizer Prices? Evidence from Sub-Saharan Africa}, with \href{https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr}{Thierry Brunelle} and \href{https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr}{Tristan Le Cotty}.
 \item \textbf{The Conquest of the Desert: Land Investment in Egypt}.

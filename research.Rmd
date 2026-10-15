@@ -33,7 +33,7 @@ output:
 <img src="Images/WorldDevelopment.png" style="width:100%;">
 :::
 ::: {.col-md-6 style="margin-top:50px; padding-left:2.5px; text-align:justify;"}
-2. **The impact of large-scale land acquisitions on food security in Africa**. <br> [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597) 179, July 2024. [PDF](PDF/Castet_2024_World_Development.pdf)
+2. **The impact of large-scale land acquisitions on child food insecurity in Africa**. <br> [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597) 179, July 2024. [PDF](PDF/Castet_2024_World_Development.pdf)
   
 <div style="margin-left:25px; text-align:justify;">
 
@@ -49,7 +49,7 @@ output:
 <img src="Images/RevueEconomie.png" style="width:100%;">
 :::
 ::: {.col-md-6 style="margin-top:50px; padding-left:2.5px; text-align:justify;"}
-3. **Food security and Covid-19: An analysis of the MENA region**, with [Racha Ramadan](https://www.racharamadan.com/). <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 33(3–4), 2023.  [PDF](PDF/Castet_Ramadan_2023_RED.pdf)
+3. **Food security and Covid-19: An analysis of the MENA region**, with [Racha Ramadan](https://www.racharamadan.com/). <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 31(3), 2023.  [PDF](PDF/Castet_Ramadan_2023_RED.pdf)
 
 <div style="margin-left:25px; text-align:justify;">
 
@@ -63,7 +63,7 @@ output:
 
 # Work in progress
 
-1. **Climate Change and Gendered Structural Transformation in Africa**, with [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en) and [Martin Paul Jr.Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en). <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
+1. **Climate Change and Gendered Structural Transformation in Africa**, with [Martin Paul Jr. Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en) and [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en). <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
  
 
 <details style="margin-top:-10px; margin-left:25px;">

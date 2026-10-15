@@ -4,6 +4,7 @@ output_dir: "docs"
 domain: antoinecastet.github.io
 url: https://antoinecastet.github.io
 name: "Antoine Castet"
+exclude: ["CV", "*.Rhtml", "*.sh"]
 
 navbar:
   left:
@@ -22,4 +23,4 @@ output:
     toc_float: false
     includes:
       after_body: footer.Rhtml
-      in_header: hide-title.html
+      in_header: hide-title.Rhtml

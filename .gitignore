@@ -1,7 +1,14 @@
-.Rproj.user
+# RStudio / R
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
+
+# macOS
 .DS_Store
-.Rproj.user/
-.Rhistory
+
+# LaTeX intermediates from rendering the CV
+CV/*.tex
+CV/*.log
+CV/*.aux
+CV/*.bib

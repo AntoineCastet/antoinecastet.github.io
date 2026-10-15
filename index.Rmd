@@ -20,7 +20,7 @@ output:
 ::: {.col-md-9 style="margin-top:30px;"}
 
 # Antoine Castet
-**Associate Professor, Université Rouen-Normandie / LERN**
+**Associate Professor, University of Rouen Normandy / LERN**
 
 📧 <a href="mailto:antoine.castet@univ-rouen.fr" style="color:#0d6efd;">
 antoine.castet@univ-rouen.fr
@@ -41,7 +41,7 @@ antoine.castet@univ-rouen.fr
 
 # About
 
-I am an Associate Professor at [Université Rouen-Normandie](https://www.univ-rouen.fr) in the Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/)).  
+I am an Associate Professor at [University of Rouen Normandy](https://www.univ-rouen.fr) in the Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/)).  
 
 I defended my PhD thesis, supervised by [Alain Desdoigts](https://scholar.google.com/citations?user=6c8QzJwAAAAJ&hl=fr), in July 2025 at [Paris 1 Panthéon-Sorbonne University](https://www.pantheonsorbonne.fr/).
 
@@ -83,7 +83,7 @@ More details are available on the [Research](research.html) page.
 
 **Academic positions**
 
-- Associate Professor, Université Rouen-Normandie (LERN), 2026–present
+- Associate Professor, University of Rouen Normandy (LERN), 2026–present
 - Postdoctoral Researcher, AgroParisTech (CIRED), 2025–2026
 - Teaching Fellow (ATER), Sciences Po Paris, 2023–2025
 

@@ -30,7 +30,7 @@ header-includes:
 \end{center}
 
 \begin{rSection}{Academic positions}
-\textbf{Associate Professor}, \textit{Université de Rouen-Normandie, LERN} \hfill {2026--present} \\[0.2cm]
+\textbf{Associate Professor}, \textit{University of Rouen Normandy, LERN} \hfill {2026--present} \\[0.2cm]
 \textbf{Postdoctoral Researcher}, \textit{AgroParisTech, CIRED} \hfill {2025--2026} \\[0.2cm]
 \textbf{Teaching Fellow (ATER)}, \textit{Sciences Po Paris} \hfill {2023--2025}
 \end{rSection}

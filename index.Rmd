@@ -41,9 +41,7 @@ My research lies at the intersection of agricultural and environmental economics
 
 <hr class="separator">
 
-# Research
-
-**Publications**
+#### Publications
 
 1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja){.person}, [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en){.person}, *et al.* <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).  
 
@@ -51,7 +49,7 @@ My research lies at the intersection of agricultural and environmental economics
 
 3. **Food Security and Covid-19: An Analysis of the MENA Region**, with [Racha Ramadan](https://www.racharamadan.com/){.person}. <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 31(3), 2023. [PDF](PDF/Castet_Ramadan_2023_RED.pdf)
 
-**Working papers**
+#### Working papers
 
 1. **Climate Change and Gendered Structural Transformation in Africa**, with [Martin Paul Jr. Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en){.person} and [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en){.person}. <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
 
@@ -59,7 +57,7 @@ My research lies at the intersection of agricultural and environmental economics
 
 3. **Do Transportation Costs Drive Fertilizer Prices? Evidence from Sub-Saharan Africa**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr){.person} and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr){.person}.
 
-**Book chapter**
+#### Book chapter
 
 1. **Past, Present and Future of Food Security in Egypt**, with [Racha Ramadan](https://www.racharamadan.com/){.person}. <br> [**Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050**](https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5), 2025. [PDF](PDF/Ramadan_Castet_2025_Food_Security_Egypt.pdf) 
 
@@ -67,15 +65,13 @@ More details are available on the [Research](research.html) page.
 
 <hr class="separator">
 
-# Academic Positions & Education
-
-**Academic positions**
+#### Academic positions
 
 - Associate Professor, University of Rouen Normandy (LERN), 2026–present
 - Postdoctoral Researcher, AgroParisTech (CIRED), 2025–2026
 - Teaching Fellow (ATER), Sciences Po Paris, 2023–2025
 
-**Education**
+#### Education
 
 - PhD in Economics, Paris 1 Panthéon-Sorbonne University, 2020–2025
 - M.A. in Development Economics, Paris 1 Panthéon-Sorbonne University, 2017–2019

@@ -13,9 +13,9 @@ output:
       - hide-title.Rhtml
 ---
 
-::: {.row .align-items-center}
+::: {.row}
 ::: {.col-md-3 style="width:auto;"}
-![](Images/pdp.jpg){width=140}
+![](Images/pdp.jpg){width=200}
 :::
 ::: {.col-md-9 style="margin-top:30px;"}
 
@@ -32,16 +32,14 @@ antoine.castet@univ-rouen.fr
 <a href="http://www.linkedin.com/in/antoine-castet">LinkedIn</a> ·
 <a href="https://x.com/Antoine_Castet">Twitter</a>
 
-:::
-:::
-
-<hr class="separator">
-
-# About
-
+::: {.about}
 I am an Associate Professor at [University of Rouen Normandy](https://www.univ-rouen.fr) in the Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/)).  
 
 My research lies at the intersection of agricultural and environmental economics. It focuses mainly on agricultural productivity dynamics and food insecurity in Africa. In particular, I have studied the effects of land investments on rural populations, as well as the impact of climate variability on employment and input use.
+:::
+
+:::
+:::
 
 <hr class="separator">
 

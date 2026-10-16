@@ -78,7 +78,7 @@ Applied Econometrics (graduate) \\[0.2cm]
 \textbf{Sorbonne Institute of Development Studies} \hfill {2025--2026} \\
 Introduction to Stata (graduate); Tutorials in Development Economics (graduate) \\[0.2cm]
 \textbf{Sciences Po Paris} \hfill {2023--2025} \\
-Microeconomics (undergraduate), teaching assistant for \href{https://scholar.google.com/citations?user=tt48sngAAAAJ}{Jean-Marc Robin}; Introduction to Economics (undergraduate)
+Microeconomics (undergraduate); Introduction to Economics (undergraduate)
 \end{rSection}
 
 \begin{rSection}{Conference and seminar organization}

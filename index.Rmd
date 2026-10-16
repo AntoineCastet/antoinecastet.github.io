@@ -14,8 +14,8 @@ output:
 ---
 
 ::: {.row .align-items-center}
-::: {.col-md-3}
-![](Images/pdp.jpg){width=200}
+::: {.col-md-3 style="width:auto;"}
+![](Images/pdp.jpg){width=140}
 :::
 ::: {.col-md-9 style="margin-top:30px;"}
 
@@ -25,8 +25,6 @@ output:
 📧 <a href="mailto:antoine.castet@univ-rouen.fr">
 antoine.castet@univ-rouen.fr
 </a>
-
-📍 Campus Pasteur, 3 Avenue Pasteur, 76000, Rouen, France
 
 🔗 <a href="PDF/CV_Antoine_Castet.pdf">CV</a> ·
 <a href="https://scholar.google.com/citations?user=PAZtH9YAAAAJ&hl=fr">Google Scholar</a> ·

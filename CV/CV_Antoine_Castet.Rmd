@@ -58,8 +58,8 @@ Forthcoming in \textit{Proceedings of the National Academy of Sciences}.
 \begin{enumerate}
 \item \textbf{Climate Change and Gendered Structural Transformation in Africa}, with \href{https://scholar.google.com/citations?user=OwxVewYAAAAJ}{Martin Paul Jr. Tabe-Ojong} and \href{https://scholar.google.com/citations?user=-ga5p8UAAAAJ}{Kibrom Abay}. \\
 Revise and Resubmit at \textit{Journal of Development Economics}.
-\item \textbf{Do Transportation Costs Drive Fertilizer Prices? Evidence from Sub-Saharan Africa}, with \href{https://scholar.google.com/citations?user=70WNvUcAAAAJ}{Thierry Brunelle} and \href{https://scholar.google.com/citations?user=i4tcjnsAAAAJ}{Tristan Le Cotty}.
 \item \textbf{The Conquest of the Desert: Land Investment in Egypt}.
+\item \textbf{Do Transportation Costs Drive Fertilizer Prices? Evidence from Sub-Saharan Africa}, with \href{https://scholar.google.com/citations?user=70WNvUcAAAAJ}{Thierry Brunelle} and \href{https://scholar.google.com/citations?user=i4tcjnsAAAAJ}{Tristan Le Cotty}.
 \end{enumerate}
 \end{rSection}
 

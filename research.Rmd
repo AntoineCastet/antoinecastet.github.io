@@ -12,7 +12,7 @@ output:
 
 # Publications
 
-1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja){.person}, [Leonardo Bertassello](https://scholar.google.com/citations?user=tnmtsjAAAAAJ&hl=it){.person}, [Davide Danilo Chiarelli](https://scholar.google.it/citations?user=hM-mvuEAAAAJ&hl=it){.person}, [Sandra Eckert](https://scholar.google.com/citations?user=2q-I5M4AAAAJ&hl=de){.person}, [Kyle Frankel Davis](https://scholar.google.com/citations?user=Izxxqq0AAAAJ&hl=en){.person}, [Jampel Dell’Angelo](https://scholar.google.com/citations?user=eQBr5i0AAAAJ&hl=en){.person}, [Paolo D’Odorico](https://scholar.google.com/citations?user=yQsaasMAAAAJ&hl=en){.person}, [Maria Cristina Rulli](https://scholar.google.com/citations?user=OiBY7bkAAAAJ&hl=en){.person}, [Bhoktear Khan](https://scholar.google.com/citations?user=cQ4tR1UAAAAJ&hl=en){.person}, and [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en){.person}. <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).
+1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja){.person}, [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en){.person}, *et al.* <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).
 
 <details style="margin-top:-10px; margin-left:25px;">
 <summary>[+] <b>Abstract</b></summary>
@@ -43,6 +43,8 @@ output:
 
 </details>
 
+<hr class="separator">
+
 # Working papers
 
 1. **Climate Change and Gendered Structural Transformation in Africa**, with [Martin Paul Jr. Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en){.person} and [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en){.person}. <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
@@ -57,11 +59,7 @@ output:
 
 <p style="margin-top:20px;">
 
-2. **Do Transportation Costs Drive Fertilizer Prices? Evidence from Sub-Saharan Africa**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr){.person} and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr){.person}.
-
-<p style="margin-top:20px;">
-
-3. **The Conquest of the Desert: Land Investment in Egypt**.
+2. **The Conquest of the Desert: Land Investment in Egypt**.
 
 <details style="margin-top:-10px; margin-left:25px;">
 <summary>[+] <b>Abstract</b></summary>
@@ -69,6 +67,12 @@ output:
 *In Egypt, demographic pressure is pushing people to populate and farm the desert. To foster economic development, the government is incentivizing these pioneers to settle there and contribute to the expansion of agriculture, manufacturing, and services. The desert concentrates the dreams and hopes of a country facing many challenges. My study uses census and satellite data to analyze the effects of this expansion policy. To assess its impact on structural transformation, I employ a difference-in-differences strategy, comparing districts bordering the desert to inland districts, before and after the implementation of a law that accelerated the expansion. Census data, available from 1960 to 2017, allow for long-term observation. Districts with access to the desert, which enabled agricultural land expansion, experienced a relative increase in the share of agricultural employment, accompanied by a relative decline in employment in manufacturing and services, compared to other districts. These districts have specialized in the sector where they have a comparative advantage, agriculture. The Egyptian expansion policy, instead of fostering the growth of the manufacturing and services sectors, slowed down the structural transformation of these districts relative to those inland.*
 
 </details>
+
+<p style="margin-top:20px;">
+
+3. **Do Transportation Costs Drive Fertilizer Prices? Evidence from Sub-Saharan Africa**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr){.person} and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr){.person}.
+
+<hr class="separator">
 
 # Book chapter
 

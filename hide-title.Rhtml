@@ -14,18 +14,39 @@ h1.title {
 .main-container a.person:focus {
   color: inherit;
 }
-.navbar-nav > li > a {
+.navbar.navbar-default {
+  background-color: #ffffff;
+  border-bottom: 1px solid #dddddd;
+}
+.navbar.navbar-default .navbar-nav > li > a {
   font-size: 16px;
+  color: #2c3e50;
+  background-color: transparent;
 }
 .navbar.navbar-default .navbar-nav > li > a:hover,
 .navbar.navbar-default .navbar-nav > li > a:focus {
-  color: #ffffff;
-  background-color: #3d5368;
+  color: #0d6efd;
+  background-color: transparent;
 }
 .navbar.navbar-default .navbar-nav > .active > a,
 .navbar.navbar-default .navbar-nav > .active > a:hover,
 .navbar.navbar-default .navbar-nav > .active > a:focus {
-  background-color: #1a242f;
+  color: #2c3e50;
+  background-color: transparent;
+  text-decoration: underline;
+  text-decoration-color: #0d6efd;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 8px;
+}
+.navbar.navbar-default .navbar-toggle {
+  border-color: #dddddd;
+}
+.navbar.navbar-default .navbar-toggle:hover,
+.navbar.navbar-default .navbar-toggle:focus {
+  background-color: #f3f4f6;
+}
+.navbar.navbar-default .navbar-toggle .icon-bar {
+  background-color: #2c3e50;
 }
 hr.separator {
   border: 0;
@@ -41,6 +62,9 @@ hr.separator {
   .navbar > .container {
     width: auto;
     max-width: 940px;
+  }
+  .navbar-nav {
+    margin-left: -15px;
   }
 }
 </style>

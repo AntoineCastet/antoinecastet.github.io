@@ -12,7 +12,7 @@ output:
 
 # Publications
 
-1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja){.person}, [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en){.person}, *et al.* <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).
+1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja){.person} *et al.* <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).
 
 <details style="margin-top:-10px; margin-left:25px;">
 <summary>[+] <b>Abstract</b></summary>

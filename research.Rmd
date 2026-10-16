@@ -19,7 +19,7 @@ output:
 <img src="Images/PNAS.png" style="width:100%;">
 :::
 ::: {.col-md-6 style="padding-left:2.5px; text-align:justify;"}
-1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja), [Leonardo Bertassello](https://scholar.google.com/citations?user=tnmtsjAAAAAJ&hl=it), [Davide Danilo Chiarelli](https://scholar.google.it/citations?user=hM-mvuEAAAAJ&hl=it), [Sandra Eckert](https://scholar.google.com/citations?user=2q-I5M4AAAAJ&hl=de), [Kyle Frankel Davis](https://scholar.google.com/citations?user=Izxxqq0AAAAJ&hl=en), [Jampel Dell’Angelo](https://scholar.google.com/citations?user=eQBr5i0AAAAJ&hl=en), [Paolo D’Odorico](https://scholar.google.com/citations?user=yQsaasMAAAAJ&hl=en), [Maria Cristina Rulli](https://scholar.google.com/citations?user=OiBY7bkAAAAJ&hl=en), [Bhoktear Khan](https://scholar.google.com/citations?user=cQ4tR1UAAAAJ&hl=en), and [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en). <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).  
+1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja){.person}, [Leonardo Bertassello](https://scholar.google.com/citations?user=tnmtsjAAAAAJ&hl=it){.person}, [Davide Danilo Chiarelli](https://scholar.google.it/citations?user=hM-mvuEAAAAJ&hl=it){.person}, [Sandra Eckert](https://scholar.google.com/citations?user=2q-I5M4AAAAJ&hl=de){.person}, [Kyle Frankel Davis](https://scholar.google.com/citations?user=Izxxqq0AAAAJ&hl=en){.person}, [Jampel Dell’Angelo](https://scholar.google.com/citations?user=eQBr5i0AAAAJ&hl=en){.person}, [Paolo D’Odorico](https://scholar.google.com/citations?user=yQsaasMAAAAJ&hl=en){.person}, [Maria Cristina Rulli](https://scholar.google.com/citations?user=OiBY7bkAAAAJ&hl=en){.person}, [Bhoktear Khan](https://scholar.google.com/citations?user=cQ4tR1UAAAAJ&hl=en){.person}, and [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en){.person}. <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).  
 
 <div style="margin-left:25px; text-align:justify;">
 <strong>Abstract</strong>: 
@@ -49,7 +49,7 @@ output:
 <img src="Images/RevueEconomie.png" style="width:100%;">
 :::
 ::: {.col-md-6 style="margin-top:50px; padding-left:2.5px; text-align:justify;"}
-3. **Food Security and Covid-19: An Analysis of the MENA Region**, with [Racha Ramadan](https://www.racharamadan.com/). <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 31(3), 2023.  [PDF](PDF/Castet_Ramadan_2023_RED.pdf)
+3. **Food Security and Covid-19: An Analysis of the MENA Region**, with [Racha Ramadan](https://www.racharamadan.com/){.person}. <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 31(3), 2023.  [PDF](PDF/Castet_Ramadan_2023_RED.pdf)
 
 <div style="margin-left:25px; text-align:justify;">
 
@@ -63,7 +63,7 @@ output:
 
 # Working papers
 
-1. **Climate Change and Gendered Structural Transformation in Africa**, with [Martin Paul Jr. Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en) and [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en). <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
+1. **Climate Change and Gendered Structural Transformation in Africa**, with [Martin Paul Jr. Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en){.person} and [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en){.person}. <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
  
 
 <details style="margin-top:-10px; margin-left:25px;">
@@ -75,7 +75,7 @@ output:
 
 <p style="margin-top:20px;">
 
-2. **Do Transportation Costs Drive Fertilizer Prices? Evidence from Sub-Saharan Africa**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr) and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr).
+2. **Do Transportation Costs Drive Fertilizer Prices? Evidence from Sub-Saharan Africa**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr){.person} and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr){.person}.
 
 <p style="margin-top:20px;">
 
@@ -92,4 +92,4 @@ output:
 
 # Book chapter
 
-1. **Past, Present and Future of Food Security in Egypt**, with [Racha Ramadan](https://www.racharamadan.com/), in [Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050](https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5), edited by [Michiel de Haas](https://scholar.google.com/citations?user=8jBsupsAAAAJ&hl=en) and [Ken E. Giller](https://scholar.google.com/citations?user=yct61VwAAAAJ&hl=fr), 2025. [PDF](PDF/Ramadan_Castet_2025_Food_Security_Egypt.pdf)
+1. **Past, Present and Future of Food Security in Egypt**, with [Racha Ramadan](https://www.racharamadan.com/){.person}, in [Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050](https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5), edited by [Michiel de Haas](https://scholar.google.com/citations?user=8jBsupsAAAAJ&hl=en){.person} and [Ken E. Giller](https://scholar.google.com/citations?user=yct61VwAAAAJ&hl=fr){.person}, 2025. [PDF](PDF/Ramadan_Castet_2025_Food_Security_Egypt.pdf)

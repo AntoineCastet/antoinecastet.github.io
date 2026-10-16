@@ -22,17 +22,17 @@ output:
 # Antoine Castet
 **Associate Professor, University of Rouen Normandy / LERN**
 
-📧 <a href="mailto:antoine.castet@univ-rouen.fr" style="color:#0d6efd;">
+📧 <a href="mailto:antoine.castet@univ-rouen.fr">
 antoine.castet@univ-rouen.fr
 </a>
 
 📍 Campus Pasteur, 3 Avenue Pasteur, 76000, Rouen, France
 
-🔗 <a href="PDF/CV_Antoine_Castet.pdf" style="color:#0d6efd;">CV</a> ·
-<a href="https://scholar.google.com/citations?user=PAZtH9YAAAAJ&hl=fr" style="color:#0d6efd;">Google Scholar</a> ·
-<a href="https://ideas.repec.org/f/pca1705.html" style="color:#0d6efd;">RePEc</a> ·
-<a href="http://www.linkedin.com/in/antoine-castet" style="color:#0d6efd;">LinkedIn</a> ·
-<a href="https://x.com/Antoine_Castet" style="color:#0d6efd;">Twitter</a>
+🔗 <a href="PDF/CV_Antoine_Castet.pdf">CV</a> ·
+<a href="https://scholar.google.com/citations?user=PAZtH9YAAAAJ&hl=fr">Google Scholar</a> ·
+<a href="https://ideas.repec.org/f/pca1705.html">RePEc</a> ·
+<a href="http://www.linkedin.com/in/antoine-castet">LinkedIn</a> ·
+<a href="https://x.com/Antoine_Castet">Twitter</a>
 
 :::
 :::
@@ -43,13 +43,7 @@ antoine.castet@univ-rouen.fr
 
 I am an Associate Professor at [University of Rouen Normandy](https://www.univ-rouen.fr) in the Laboratoire d'Economie Rouen Normandie ([LERN](https://lern.univ-rouen.fr/)).  
 
-I defended my PhD thesis, supervised by [Alain Desdoigts](https://scholar.google.com/citations?user=6c8QzJwAAAAJ&hl=fr), in July 2025 at [Paris 1 Panthéon-Sorbonne University](https://www.pantheonsorbonne.fr/).
-
-From 2025 to 2026, I was a Postdoctoral Researcher at [AgroParisTech](https://www.agroparistech.fr) in the Centre for International Research on Environment and Development ([CIRED](https://www.centre-cired.fr)), supervised by [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr).  
-
-From 2023 to 2025, I was a Teaching Fellow (ATER) in the Department of Economics at [Sciences Po Paris](https://www.sciencespo.fr/fr/).
-
-My research interests are primarily in development and agricultural economics.  
+My research lies at the intersection of agricultural and environmental economics. It focuses mainly on agricultural productivity dynamics and food insecurity in Africa. In particular, I have studied the effects of land investments on rural populations, as well as the impact of climate variability on employment and input use.
 
 <hr style="border: 2px solid black;">
 
@@ -57,23 +51,23 @@ My research interests are primarily in development and agricultural economics.
 
 **Publications**
 
-1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja), [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en), *et al.* <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).  
+1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja){.person}, [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en){.person}, *et al.* <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).  
 
 2. **The Impact of Large-Scale Land Acquisitions on Child Food Insecurity in Africa**. <br> [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597), 179, July 2024. [PDF](PDF/Castet_2024_World_Development.pdf)  
 
-3. **Food Security and Covid-19: An Analysis of the MENA Region**, with [Racha Ramadan](https://www.racharamadan.com/). <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 31(3), 2023. [PDF](PDF/Castet_Ramadan_2023_RED.pdf)
+3. **Food Security and Covid-19: An Analysis of the MENA Region**, with [Racha Ramadan](https://www.racharamadan.com/){.person}. <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 31(3), 2023. [PDF](PDF/Castet_Ramadan_2023_RED.pdf)
 
 **Working papers**
 
-1. **Climate Change and Gendered Structural Transformation in Africa**, with [Martin Paul Jr. Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en) and [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en). <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
+1. **Climate Change and Gendered Structural Transformation in Africa**, with [Martin Paul Jr. Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en){.person} and [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en){.person}. <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
 
-2. **Do Transportation Costs Drive Fertilizer Prices? Evidence from Sub-Saharan Africa**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr) and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr).
+2. **Do Transportation Costs Drive Fertilizer Prices? Evidence from Sub-Saharan Africa**, with [Thierry Brunelle](https://scholar.google.com/citations?user=70WNvUcAAAAJ&hl=fr){.person} and [Tristan Le Cotty](https://scholar.google.com/citations?user=i4tcjnsAAAAJ&hl=fr){.person}.
 
 3. **The Conquest of the Desert: Land Investment in Egypt**.
 
 **Book chapter**
 
-1. **Past, Present and Future of Food Security in Egypt**, with [Racha Ramadan](https://www.racharamadan.com/), in [Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050](https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5), edited by [Michiel de Haas](https://scholar.google.com/citations?user=8jBsupsAAAAJ&hl=en) and [Ken E. Giller](https://scholar.google.com/citations?user=yct61VwAAAAJ&hl=fr), 2025. [PDF](PDF/Ramadan_Castet_2025_Food_Security_Egypt.pdf) 
+1. **Past, Present and Future of Food Security in Egypt**, with [Racha Ramadan](https://www.racharamadan.com/){.person}, in [Pathways to African Food Security: Challenges, Threats and Opportunities towards 2050](https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5), edited by [Michiel de Haas](https://scholar.google.com/citations?user=8jBsupsAAAAJ&hl=en){.person} and [Ken E. Giller](https://scholar.google.com/citations?user=yct61VwAAAAJ&hl=fr){.person}, 2025. [PDF](PDF/Ramadan_Castet_2025_Food_Security_Egypt.pdf) 
 
 More details are available on the [Research](research.html) page.
 

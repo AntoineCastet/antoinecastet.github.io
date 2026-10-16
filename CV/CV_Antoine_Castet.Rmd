@@ -24,7 +24,7 @@ header-includes:
 
 \begin{center}
 {\Huge\bfseries Antoine Castet}\\[0.3cm]
-\texttt{\href{https://antoinecastet.github.io/AntoineCastet/}{https://antoinecastet.github.io/AntoineCastet/}}\\[0.1cm]
+\texttt{\href{https://antoinecastet.github.io/}{https://antoinecastet.github.io/}}\\[0.1cm]
 \href{mailto:antoine.castet@univ-rouen.fr}{antoine.castet@univ-rouen.fr}\\[0.1cm]
 {\small\textit{Last updated: `r paste(month.name[as.integer(format(Sys.Date(), "%m"))], format(Sys.Date(), "%Y"))`}}
 \end{center}
@@ -48,9 +48,9 @@ Committee: \href{https://scholar.google.com/citations?user=-IXkBZAAAAAJ}{Rémi B
 \item \textbf{Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South}, with Julie Faure, Marc F. Müller, \textit{et al.} \\
 Forthcoming in \textit{Proceedings of the National Academy of Sciences}.
 \item \textbf{The Impact of Large-Scale Land Acquisitions on Child Food Insecurity in Africa}. \\
-\href{https://www.sciencedirect.com/science/article/pii/S0305750X24000676}{\textit{World Development}}, vol. 179, 2024. \href{https://antoinecastet.github.io/AntoineCastet/PDF/Castet_2024_World_Development.pdf}{\uline{PDF}}.
+\href{https://www.sciencedirect.com/science/article/pii/S0305750X24000676}{\textit{World Development}}, vol. 179, 2024. \href{https://antoinecastet.github.io/PDF/Castet_2024_World_Development.pdf}{\uline{PDF}}.
 \item \textbf{Food Security and Covid-19: An Analysis of the MENA Region}, with \href{https://scholar.google.com/citations?user=OH-yKZQAAAAJ}{Racha Ramadan}. \\
-\href{https://shs.cairn.info/revue-d-economie-du-developpement-2023-3-page-29?tab=resume}{\textit{Revue d’Économie du Développement}}, vol. 31, 2023. \href{https://antoinecastet.github.io/AntoineCastet/PDF/Castet_Ramadan_2023_RED.pdf}{\uline{PDF}}.
+\href{https://shs.cairn.info/revue-d-economie-du-developpement-2023-3-page-29?tab=resume}{\textit{Revue d’Économie du Développement}}, vol. 31, 2023. \href{https://antoinecastet.github.io/PDF/Castet_Ramadan_2023_RED.pdf}{\uline{PDF}}.
 \end{enumerate}
 \end{rSection}
 
@@ -66,7 +66,7 @@ Revise and Resubmit at \textit{Journal of Development Economics}.
 \begin{rSection}{Book chapter}
 \begin{enumerate}
 \item \textbf{Past, Present and Future of Food Security in Egypt}, with \href{https://scholar.google.com/citations?user=OH-yKZQAAAAJ}{Racha Ramadan}. \\
-In \href{https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5}{\textit{Pathways to African Food Security}}, eds. \href{https://scholar.google.com/citations?user=8jBsupsAAAAJ}{M. de Haas} and \href{https://scholar.google.com/citations?user=yct61VwAAAAJ}{K. E. Giller}, 2025. \href{https://antoinecastet.github.io/AntoineCastet/PDF/Ramadan_Castet_2025_Food_Security_Egypt.pdf}{\uline{PDF}}.
+In \href{https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5}{\textit{Pathways to African Food Security}}, eds. \href{https://scholar.google.com/citations?user=8jBsupsAAAAJ}{M. de Haas} and \href{https://scholar.google.com/citations?user=yct61VwAAAAJ}{K. E. Giller}, 2025. \href{https://antoinecastet.github.io/PDF/Ramadan_Castet_2025_Food_Security_Egypt.pdf}{\uline{PDF}}.
 \end{enumerate}
 \end{rSection}
 

@@ -36,7 +36,44 @@
 h1.title {
   display: none;
 }
+.main-container a {
+  color: #0d6efd;
+}
+.main-container a:hover,
+.main-container a:focus {
+  color: #0d6efd;
+}
+.main-container a.person,
+.main-container a.person:hover,
+.main-container a.person:focus {
+  color: inherit;
+}
+.navbar-brand:empty {
+  display: none;
+}
+@media (min-width: 768px) {
+  #about p {
+    text-align: justify;
+  }
+  .navbar > .container {
+    width: auto;
+    max-width: 940px;
+  }
+  .navbar-nav {
+    margin-left: -15px;
+  }
+}
 </style>
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="favicon.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Antoine Castet",
+  "url": "https://antoinecastet.github.io/"
+}
+</script>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -285,19 +322,14 @@ style="margin-top:30px;">
 <h1>Antoine Castet</h1>
 <p><strong>Associate Professor, University of Rouen Normandy /
 LERN</strong></p>
-<p>📧
-<a href="mailto:antoine.castet@univ-rouen.fr" style="color:#0d6efd;">
+<p>📧 <a href="mailto:antoine.castet@univ-rouen.fr">
 antoine.castet@univ-rouen.fr </a></p>
 <p>📍 Campus Pasteur, 3 Avenue Pasteur, 76000, Rouen, France</p>
-<p>🔗 <a href="PDF/CV_Antoine_Castet.pdf" style="color:#0d6efd;">CV</a>
-·
-<a href="https://scholar.google.com/citations?user=PAZtH9YAAAAJ&hl=fr" style="color:#0d6efd;">Google
-Scholar</a> ·
-<a href="https://ideas.repec.org/f/pca1705.html" style="color:#0d6efd;">RePEc</a>
-·
-<a href="http://www.linkedin.com/in/antoine-castet" style="color:#0d6efd;">LinkedIn</a>
-·
-<a href="https://x.com/Antoine_Castet" style="color:#0d6efd;">Twitter</a></p>
+<p>🔗 <a href="PDF/CV_Antoine_Castet.pdf">CV</a> ·
+<a href="https://scholar.google.com/citations?user=PAZtH9YAAAAJ&hl=fr">Google
+Scholar</a> · <a href="https://ideas.repec.org/f/pca1705.html">RePEc</a>
+· <a href="http://www.linkedin.com/in/antoine-castet">LinkedIn</a> ·
+<a href="https://x.com/Antoine_Castet">Twitter</a></p>
 </div>
 </div>
 <hr style="border: 2px solid black;">
@@ -307,22 +339,11 @@ Scholar</a> ·
 href="https://www.univ-rouen.fr">University of Rouen Normandy</a> in the
 Laboratoire d’Economie Rouen Normandie (<a
 href="https://lern.univ-rouen.fr/">LERN</a>).</p>
-<p>I defended my PhD thesis, supervised by <a
-href="https://scholar.google.com/citations?user=6c8QzJwAAAAJ&amp;hl=fr">Alain
-Desdoigts</a>, in July 2025 at <a
-href="https://www.pantheonsorbonne.fr/">Paris 1 Panthéon-Sorbonne
-University</a>.</p>
-<p>From 2025 to 2026, I was a Postdoctoral Researcher at <a
-href="https://www.agroparistech.fr">AgroParisTech</a> in the Centre for
-International Research on Environment and Development (<a
-href="https://www.centre-cired.fr">CIRED</a>), supervised by <a
-href="https://scholar.google.com/citations?user=70WNvUcAAAAJ&amp;hl=fr">Thierry
-Brunelle</a>.</p>
-<p>From 2023 to 2025, I was a Teaching Fellow (ATER) in the Department
-of Economics at <a href="https://www.sciencespo.fr/fr/">Sciences Po
-Paris</a>.</p>
-<p>My research interests are primarily in development and agricultural
-economics.</p>
+<p>My research lies at the intersection of agricultural and
+environmental economics. It focuses mainly on agricultural productivity
+dynamics and food insecurity in Africa. In particular, I have studied
+the effects of land investments on rural populations, as well as the
+impact of climate variability on employment and input use.</p>
 <hr style="border: 2px solid black;">
 </div>
 <div id="research" class="section level1">
@@ -331,10 +352,11 @@ economics.</p>
 <ol style="list-style-type: decimal">
 <li><p><strong>Heterogeneous Impacts of Large Scale Land Acquisitions on
 Child Nutrition in the Global South</strong>, with <a
-href="https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&amp;hl=ja">Julie
-Faure</a>, <a
-href="https://scholar.google.com/citations?user=jnHeBrcAAAAJ&amp;hl=en">Marc
-F. Müller</a>, <em>et al.</em> <br> <em>Forthcoming</em> in <a
+href="https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&amp;hl=ja"
+class="person">Julie Faure</a>, <a
+href="https://scholar.google.com/citations?user=jnHeBrcAAAAJ&amp;hl=en"
+class="person">Marc F. Müller</a>, <em>et al.</em> <br>
+<em>Forthcoming</em> in <a
 href="https://www.pnas.org/"><strong>Proceedings of the National Academy
 of Sciences</strong></a>.</p></li>
 <li><p><strong>The Impact of Large-Scale Land Acquisitions on Child Food
@@ -343,8 +365,8 @@ href="https://doi.org/10.1016/j.worlddev.2024.106597"><strong>World
 Development</strong></a>, 179, July 2024. <a
 href="PDF/Castet_2024_World_Development.pdf">PDF</a></p></li>
 <li><p><strong>Food Security and Covid-19: An Analysis of the MENA
-Region</strong>, with <a href="https://www.racharamadan.com/">Racha
-Ramadan</a>. <br> <a
+Region</strong>, with <a href="https://www.racharamadan.com/"
+class="person">Racha Ramadan</a>. <br> <a
 href="https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article"><strong>Revue
 d’Économie du Développement</strong></a>, 31(3), 2023. <a
 href="PDF/Castet_Ramadan_2023_RED.pdf">PDF</a></p></li>
@@ -353,32 +375,33 @@ href="PDF/Castet_Ramadan_2023_RED.pdf">PDF</a></p></li>
 <ol style="list-style-type: decimal">
 <li><p><strong>Climate Change and Gendered Structural Transformation in
 Africa</strong>, with <a
-href="https://scholar.google.com/citations?user=OwxVewYAAAAJ&amp;hl=en">Martin
-Paul Jr. Tabe-Ojong</a> and <a
-href="https://scholar.google.com/citations?user=-ga5p8UAAAAJ&amp;hl=en">Kibrom
-Abay</a>. <br> <em>R &amp; R</em> at <a
+href="https://scholar.google.com/citations?user=OwxVewYAAAAJ&amp;hl=en"
+class="person">Martin Paul Jr. Tabe-Ojong</a> and <a
+href="https://scholar.google.com/citations?user=-ga5p8UAAAAJ&amp;hl=en"
+class="person">Kibrom Abay</a>. <br> <em>R &amp; R</em> at <a
 href="https://www.sciencedirect.com/journal/journal-of-development-economics"><strong>Journal
 of Development Economics</strong></a>.</p></li>
 <li><p><strong>Do Transportation Costs Drive Fertilizer Prices? Evidence
 from Sub-Saharan Africa</strong>, with <a
-href="https://scholar.google.com/citations?user=70WNvUcAAAAJ&amp;hl=fr">Thierry
-Brunelle</a> and <a
-href="https://scholar.google.com/citations?user=i4tcjnsAAAAJ&amp;hl=fr">Tristan
-Le Cotty</a>.</p></li>
+href="https://scholar.google.com/citations?user=70WNvUcAAAAJ&amp;hl=fr"
+class="person">Thierry Brunelle</a> and <a
+href="https://scholar.google.com/citations?user=i4tcjnsAAAAJ&amp;hl=fr"
+class="person">Tristan Le Cotty</a>.</p></li>
 <li><p><strong>The Conquest of the Desert: Land Investment in
 Egypt</strong>.</p></li>
 </ol>
 <p><strong>Book chapter</strong></p>
 <ol style="list-style-type: decimal">
 <li><strong>Past, Present and Future of Food Security in Egypt</strong>,
-with <a href="https://www.racharamadan.com/">Racha Ramadan</a>, in <a
+with <a href="https://www.racharamadan.com/" class="person">Racha
+Ramadan</a>, in <a
 href="https://www.routledge.com/Pathways-to-African-Food-Security-Challenges-Threats-and-Opportunities-towards-2050/deHaas-Giller/p/book/9781032649658?srsltid=AfmBOoolqrs77yqzKgOg8RmFGkxwCn5Cr-c30_HqrrUXbVyoELnq1QJ5">Pathways
 to African Food Security: Challenges, Threats and Opportunities towards
 2050</a>, edited by <a
-href="https://scholar.google.com/citations?user=8jBsupsAAAAJ&amp;hl=en">Michiel
-de Haas</a> and <a
-href="https://scholar.google.com/citations?user=yct61VwAAAAJ&amp;hl=fr">Ken
-E. Giller</a>, 2025. <a
+href="https://scholar.google.com/citations?user=8jBsupsAAAAJ&amp;hl=en"
+class="person">Michiel de Haas</a> and <a
+href="https://scholar.google.com/citations?user=yct61VwAAAAJ&amp;hl=fr"
+class="person">Ken E. Giller</a>, 2025. <a
 href="PDF/Ramadan_Castet_2025_Food_Security_Egypt.pdf">PDF</a></li>
 </ol>
 <p>More details are available on the <a

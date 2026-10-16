@@ -2,4 +2,41 @@
 h1.title {
   display: none;
 }
+.main-container a {
+  color: #0d6efd;
+}
+.main-container a:hover,
+.main-container a:focus {
+  color: #0d6efd;
+}
+.main-container a.person,
+.main-container a.person:hover,
+.main-container a.person:focus {
+  color: inherit;
+}
+.navbar-brand:empty {
+  display: none;
+}
+@media (min-width: 768px) {
+  #about p {
+    text-align: justify;
+  }
+  .navbar > .container {
+    width: auto;
+    max-width: 940px;
+  }
+  .navbar-nav {
+    margin-left: -15px;
+  }
+}
 </style>
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="favicon.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Antoine Castet",
+  "url": "https://antoinecastet.github.io/"
+}
+</script>

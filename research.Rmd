@@ -12,52 +12,36 @@ output:
 
 # Publications
 
+1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja){.person}, [Leonardo Bertassello](https://scholar.google.com/citations?user=tnmtsjAAAAAJ&hl=it){.person}, [Davide Danilo Chiarelli](https://scholar.google.it/citations?user=hM-mvuEAAAAJ&hl=it){.person}, [Sandra Eckert](https://scholar.google.com/citations?user=2q-I5M4AAAAJ&hl=de){.person}, [Kyle Frankel Davis](https://scholar.google.com/citations?user=Izxxqq0AAAAJ&hl=en){.person}, [Jampel Dell’Angelo](https://scholar.google.com/citations?user=eQBr5i0AAAAJ&hl=en){.person}, [Paolo D’Odorico](https://scholar.google.com/citations?user=yQsaasMAAAAJ&hl=en){.person}, [Maria Cristina Rulli](https://scholar.google.com/citations?user=OiBY7bkAAAAJ&hl=en){.person}, [Bhoktear Khan](https://scholar.google.com/citations?user=cQ4tR1UAAAAJ&hl=en){.person}, and [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en){.person}. <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).
+
+<details style="margin-top:-10px; margin-left:25px;">
+<summary>[+] <b>Abstract</b></summary>
+
+*Transnational land investments have surged in recent decades, reshaping rural landscapes in low- and middle-income countries. These large-scale land acquisitions (LSLAs) often displace smallholder farming and natural ecosystems, disrupting local food, water, and environmental systems. Yet, the ways these socio-environmental changes interact to affect household well-being remain poorly understood. We present a global analysis of over 400 georeferenced land deals, using a clustering algorithm to characterize cross-dimensional trade-offs and define LSLA archetypes with distinct policy relevance. Linking these to data from more than 84,000 children in Demographic and Health Surveys, we find that impacts on dietary diversity vary widely across archetypes, shaped by prior land use, water availability, and investment intent. The most severe adverse effects occur when LSLAs involve conversion to cash crop or plantation agriculture. In contrast, some deals-particularly those in already intensive agricultural regions-show potential to enhance dietary diversity, likely through spillover economic benefits. However, these gains vanish under conditions of water scarcity. Strikingly, we find a persistent association between water scarcity and negative nutritional outcomes, suggesting that water grabbing is a common and consequential feature of LSLAs. Our findings challenge the notion of LSLAs as uniform interventions and highlight the need for more differentiated, context-sensitive policy responses. Regulation should target the specific socio-environmental trade-offs associated with different types of land deals to better safeguard household well-being in affected regions.*
+
+</details>
+
 <p style="margin-top:20px;">
 
-::: {.row .align-items-center}
-::: {.col-md-6 style="margin-top:50px; padding-right:2.5px;"}
-<img src="Images/PNAS.png" style="width:100%;">
-:::
-::: {.col-md-6 style="padding-left:2.5px; text-align:justify;"}
-1. **Heterogeneous Impacts of Large Scale Land Acquisitions on Child Nutrition in the Global South**, with [Julie Faure](https://scholar.google.com.tw/citations?user=S2iiM2kAAAAJ&hl=ja){.person}, [Leonardo Bertassello](https://scholar.google.com/citations?user=tnmtsjAAAAAJ&hl=it){.person}, [Davide Danilo Chiarelli](https://scholar.google.it/citations?user=hM-mvuEAAAAJ&hl=it){.person}, [Sandra Eckert](https://scholar.google.com/citations?user=2q-I5M4AAAAJ&hl=de){.person}, [Kyle Frankel Davis](https://scholar.google.com/citations?user=Izxxqq0AAAAJ&hl=en){.person}, [Jampel Dell’Angelo](https://scholar.google.com/citations?user=eQBr5i0AAAAJ&hl=en){.person}, [Paolo D’Odorico](https://scholar.google.com/citations?user=yQsaasMAAAAJ&hl=en){.person}, [Maria Cristina Rulli](https://scholar.google.com/citations?user=OiBY7bkAAAAJ&hl=en){.person}, [Bhoktear Khan](https://scholar.google.com/citations?user=cQ4tR1UAAAAJ&hl=en){.person}, and [Marc F. Müller](https://scholar.google.com/citations?user=jnHeBrcAAAAJ&hl=en){.person}. <br> *Forthcoming* in [**Proceedings of the National Academy of Sciences**](https://www.pnas.org/).  
+2. **The Impact of Large-Scale Land Acquisitions on Child Food Insecurity in Africa**. <br> [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597), 179, July 2024. [PDF](PDF/Castet_2024_World_Development.pdf)
 
-<div style="margin-left:25px; text-align:justify;">
-<strong>Abstract</strong>: 
-*Transnational land investments have surged in recent decades, reshaping rural landscapes in low- and middle-income countries. These large-scale land acquisitions (LSLAs) often displace smallholder farming and natural ecosystems, disrupting local food, water, and environmental systems. Yet, the ways these socio-environmental changes interact to affect household well-being remain poorly understood. We present a global analysis of over 400 georeferenced land deals, using a clustering algorithm to characterize cross-dimensional trade-offs and define LSLA archetypes with distinct policy relevance. Linking these to data from more than 84,000 children in Demographic and Health Surveys, we find that impacts on dietary diversity vary widely across archetypes, shaped by prior land use, water availability, and investment intent. The most severe adverse effects occur when LSLAs involve conversion to cash crop or plantation agriculture. In contrast, some deals-particularly those in already intensive agricultural regions-show potential to enhance dietary diversity, likely through spillover economic benefits. However, these gains vanish under conditions of water scarcity. Strikingly, we find a persistent association between water scarcity and negative nutritional outcomes, suggesting that water grabbing is a common and consequential feature of LSLAs. Our findings challenge the notion of LSLAs as uniform interventions and highlight the need for more differentiated, context-sensitive policy responses. Regulation should target the specific socio-environmental trade-offs associated with different types of land deals to better safeguard household well-being in affected regions.*
-</div>
-:::
-:::
+<details style="margin-top:-10px; margin-left:25px;">
+<summary>[+] <b>Abstract</b></summary>
 
-::: {.row .align-items-center}
-::: {.col-md-6 style="margin-top:50px; padding-right:2.5px;"}
-<img src="Images/WorldDevelopment.png" style="width:100%;">
-:::
-::: {.col-md-6 style="margin-top:50px; padding-left:2.5px; text-align:justify;"}
-2. **The Impact of Large-Scale Land Acquisitions on Child Food Insecurity in Africa**. <br> [**World Development**](https://doi.org/10.1016/j.worlddev.2024.106597) 179, July 2024. [PDF](PDF/Castet_2024_World_Development.pdf)
-  
-<div style="margin-left:25px; text-align:justify;">
+*Food insecurity is a major concern in most African countries. Large-scale land acquisitions (LSLAs) frequently have a negative impact on local communities. In this paper, I examine the impact of LSLAs on the nutritional status of neighboring children. To this end, I use a difference-in-differences methodology applied to LSLAs in a large number of African countries at different times since the early 2000s. I analyze data from Demographic and Health Surveys combined with data from the Land Matrix Initiative, supplemented by my own research, ultimately covering 18,276 children living in the vicinity of 45 LSLAs. I show that LSLAs have had a significant negative impact on child nutrition in Africa over the past two decades. Specifically, the dietary diversity scores of children living close to LSLAs were reduced by 20 per cent after acquisition. The results are robust to various statistical tests. I find no changes in work status or household assets. While the impact of LSLAs may be positive for agricultural practices, it is negative for child food security. The analysis highlights the importance of supporting local communities following foreign agricultural investment.*
 
-<strong>Abstract</strong>: *Food insecurity is a major concern in most African countries. Large-scale land acquisitions (LSLAs) frequently have a negative impact on local communities. In this paper, I examine the impact of LSLAs on the nutritional status of neighboring children. To this end, I use a difference-in-differences methodology applied to LSLAs in a large number of African countries at different times since the early 2000s. I analyze data from Demographic and Health Surveys combined with data from the Land Matrix Initiative, supplemented by my own research, ultimately covering 18,276 children living in the vicinity of 45 LSLAs. I show that LSLAs have had a significant negative impact on child nutrition in Africa over the past two decades. Specifically, the dietary diversity scores of children living close to LSLAs were reduced by 20 per cent after acquisition. The results are robust to various statistical tests. I find no changes in work status or household assets. While the impact of LSLAs may be positive for agricultural practices, it is negative for child food security. The analysis highlights the importance of supporting local communities following foreign agricultural investment.*
-</div>
-:::
-:::
+</details>
 
+<p style="margin-top:20px;">
 
+3. **Food Security and Covid-19: An Analysis of the MENA Region**, with [Racha Ramadan](https://www.racharamadan.com/){.person}. <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 31(3), 2023. [PDF](PDF/Castet_Ramadan_2023_RED.pdf)
 
-::: {.row .align-items-center}
-::: {.col-md-6 style="margin-top:50px; padding-right:2.5px;"}
-<img src="Images/RevueEconomie.png" style="width:100%;">
-:::
-::: {.col-md-6 style="margin-top:50px; padding-left:2.5px; text-align:justify;"}
-3. **Food Security and Covid-19: An Analysis of the MENA Region**, with [Racha Ramadan](https://www.racharamadan.com/){.person}. <br> [**Revue d’Économie du Développement**](https://www.cairn.info/revue-d-economie-du-developpement-2023-3-page-29.htm?contenu=article), 31(3), 2023.  [PDF](PDF/Castet_Ramadan_2023_RED.pdf)
+<details style="margin-top:-10px; margin-left:25px;">
+<summary>[+] <b>Abstract</b></summary>
 
-<div style="margin-left:25px; text-align:justify;">
+*We study the food situation of households in five countries in the Middle East and North Africa region during the Covid-19 pandemic. We show that household food security was negatively affected during the pandemic.*
 
-<strong>Abstract</strong>: *We study the food situation of households in five countries in the Middle East and North Africa region during the Covid-19 pandemic. We show that household food security was negatively affected during the pandemic.*
-</div>
-
-:::
-:::
+</details>
 
 # Working papers
 

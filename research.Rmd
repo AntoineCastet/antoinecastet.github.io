@@ -59,8 +59,6 @@ output:
 :::
 :::
 
-<hr style="border: 2px solid black;">
-
 # Working papers
 
 1. **Climate Change and Gendered Structural Transformation in Africa**, with [Martin Paul Jr. Tabe-Ojong](https://scholar.google.com/citations?user=OwxVewYAAAAJ&hl=en){.person} and [Kibrom Abay](https://scholar.google.com/citations?user=-ga5p8UAAAAJ&hl=en){.person}. <br> *R & R* at [**Journal of Development Economics**](https://www.sciencedirect.com/journal/journal-of-development-economics).
@@ -87,8 +85,6 @@ output:
 *In Egypt, demographic pressure is pushing people to populate and farm the desert. To foster economic development, the government is incentivizing these pioneers to settle there and contribute to the expansion of agriculture, manufacturing, and services. The desert concentrates the dreams and hopes of a country facing many challenges. My study uses census and satellite data to analyze the effects of this expansion policy. To assess its impact on structural transformation, I employ a difference-in-differences strategy, comparing districts bordering the desert to inland districts, before and after the implementation of a law that accelerated the expansion. Census data, available from 1960 to 2017, allow for long-term observation. Districts with access to the desert, which enabled agricultural land expansion, experienced a relative increase in the share of agricultural employment, accompanied by a relative decline in employment in manufacturing and services, compared to other districts. These districts have specialized in the sector where they have a comparative advantage, agriculture. The Egyptian expansion policy, instead of fostering the growth of the manufacturing and services sectors, slowed down the structural transformation of these districts relative to those inland.*
 
 </details>
-
-<hr style="border: 2px solid black;">
 
 # Book chapter
 

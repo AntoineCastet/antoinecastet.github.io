@@ -22,3 +22,4 @@ output:
 
 - Données : <a href="Data/tv_shows.csv" download>tv_shows.csv</a>
 - Données complémentaires : <a href="Data/tv_shows_complement.csv" download>tv_shows_complement.csv</a>
+- Données : <a href="Data/temperatures.csv" download>temperatures.csv</a>
